@@ -1,0 +1,23 @@
+Total number of training sequences: 605
+Epoch 000, Train Loss: 1.45, Train Acc: 41.66%, Valid Loss: 1.36, Valid Acc: 43.65%
+Model saved to best_model.pth
+Epoch 010, Train Loss: 1.21, Train Acc: 50.71%, Valid Loss: 1.19, Valid Acc: 52.03%
+Model saved to best_model.pth
+Epoch 020, Train Loss: 1.16, Train Acc: 53.93%, Valid Loss: 1.16, Valid Acc: 54.48%
+Model saved to best_model.pth
+Epoch 030, Train Loss: 1.11, Train Acc: 56.58%, Valid Loss: 1.09, Valid Acc: 56.56%
+Model saved to best_model.pth
+Epoch 040, Train Loss: 1.11, Train Acc: 56.12%, Valid Loss: 1.15, Valid Acc: 52.92%
+Epoch 050, Train Loss: 1.02, Train Acc: 60.92%, Valid Loss: 1.11, Valid Acc: 55.68%
+Epoch 060, Train Loss: 0.97, Train Acc: 63.73%, Valid Loss: 1.07, Valid Acc: 58.85%
+Model saved to best_model.pth
+Epoch 070, Train Loss: 1.06, Train Acc: 57.48%, Valid Loss: 1.26, Valid Acc: 48.39%
+Epoch 080, Train Loss: 0.95, Train Acc: 64.32%, Valid Loss: 1.11, Valid Acc: 56.35%
+Epoch 090, Train Loss: 0.86, Train Acc: 68.35%, Valid Loss: 1.07, Valid Acc: 58.02%
+Epoch 100, Train Loss: 0.81, Train Acc: 70.14%, Valid Loss: 1.07, Valid Acc: 60.26%
+Model saved to best_model.pth
+Epoch 110, Train Loss: 0.83, Train Acc: 69.27%, Valid Loss: 1.07, Valid Acc: 59.74%
+Epoch 120, Train Loss: 0.81, Train Acc: 69.34%, Valid Loss: 1.02, Valid Acc: 60.99%
+Model saved to best_model.pth
+Epoch 130, Train Loss: 0.81, Train Acc: 68.80%, Valid Loss: 1.13, Valid Acc: 59.38%
+Epoch 140, Train Loss: 0.78, Train Acc: 70.97%, Valid Loss: 1.12, Valid Acc: 59.32%

@@ -1,0 +1,3 @@
+Total number of training sequences: 605
+Epoch 000, Train Loss: 1.45, Train Acc: 41.66%, Valid Loss: 1.36, Valid Acc: 43.65%
+Model saved to best_model.pth

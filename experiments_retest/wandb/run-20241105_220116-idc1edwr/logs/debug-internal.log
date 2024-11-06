@@ -1,0 +1,8 @@
+{"time":"2024-11-05T22:01:16.968916719+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T22:01:16.968923213+08:00","level":"INFO","msg":"created symlink","path":"/home/hiro_u18/pycode/ltc_net/experiments_retest/wandb/run-20241105_220116-idc1edwr/logs/debug-core.log"}
+{"time":"2024-11-05T22:01:17.069608587+08:00","level":"INFO","msg":"created new stream","id":"idc1edwr"}
+{"time":"2024-11-05T22:01:17.069630978+08:00","level":"INFO","msg":"stream: started","id":"idc1edwr"}
+{"time":"2024-11-05T22:01:17.069703024+08:00","level":"INFO","msg":"sender: started","stream_id":"idc1edwr"}
+{"time":"2024-11-05T22:01:17.069695295+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"idc1edwr"}}
+{"time":"2024-11-05T22:01:17.069743616+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"idc1edwr"}}
+{"time":"2024-11-05T22:01:17.787239606+08:00","level":"INFO","msg":"Starting system monitor"}

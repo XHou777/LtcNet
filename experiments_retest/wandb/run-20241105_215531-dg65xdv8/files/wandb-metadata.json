@@ -1,0 +1,58 @@
+{
+  "os":  "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.17",
+  "python":  "3.8.19",
+  "startedAt":  "2024-11-05T13:55:31.214264Z",
+  "args":  [
+    "--data_type",
+    "gesture",
+    "--data_path",
+    "/mnt/f/dataset/liquid_data/gesture",
+    "--model_type",
+    "ltc",
+    "--input_size",
+    "32",
+    "--model_size",
+    "32",
+    "--output_size",
+    "5",
+    "--epochs",
+    "300",
+    "--batch_size",
+    "32",
+    "--lr",
+    "0.01"
+  ],
+  "program":  "/home/hiro_u18/pycode/ltc_net/experiments_retest/base_model.py",
+  "codePath":  "base_model.py",
+  "email":  "bananafromrosa@gmail.com",
+  "root":  "/home/hiro_u18/pycode/ltc_net/experiments_retest",
+  "host":  "hirowin11",
+  "username":  "hiro_u18",
+  "executable":  "/home/hiro_u18/anaconda3/envs/vst/bin/python",
+  "codePathLocal":  "base_model.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  24,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "254044024832"
+    }
+  },
+  "memory":  {
+    "total":  "50515668992"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  24
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.3"
+}
